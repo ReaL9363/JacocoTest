@@ -17,3 +17,5 @@ buildNumber.properties
 #target/generated-test-sources/
 /.idea/
 /JacocoTest.iml
+target/generated-sources/
+target/generated-test-sources/
